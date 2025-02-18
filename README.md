@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hello! I'm Victor Chagas. I'm a CNC Machines Dev and Full Stack Dev and here you can see some of my work.
 
-<!--
-**victorchagas-93/victorchagas-93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### 📊 Stats 
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=victorchagas-93&show_icons=true&theme=dark"/>
+  <img height='195px'src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorchagas-93&layout=compact&theme=dark" />  
+</div>
+
+#
+
+ #### 🤓 Technologies
+ <br />
+
+[![My Skills](https://skillicons.dev/icons?i=autocad,sketchup,arduino,raspberrypi)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,css,html,react,nodejs,tailwind,bootstrap,figma)](https://skillicons.dev)
+
+
+[![My Skills](https://skillicons.dev/icons?i=py,flask,mongodb,mysql,docker,postman,git,github,aws)](https://skillicons.dev)
