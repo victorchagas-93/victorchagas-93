@@ -11,7 +11,7 @@
 
 #
 
- #### 🤓 Technologies
+ #### 👨‍💻 Technologies
  <br />
 
 [![My Skills](https://skillicons.dev/icons?i=autocad,sketchup,arduino,raspberrypi)](https://skillicons.dev)
