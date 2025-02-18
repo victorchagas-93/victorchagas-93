@@ -20,3 +20,11 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=py,flask,mongodb,mysql,docker,postman,git,github,aws)](https://skillicons.dev)
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victorchagas-93/victorchagas-93/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/victorchagas-93/victorchagas-93/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/victorchagas-93/victorchagas-93/output/github-contribution-grid-snake.svg">
+</picture>
