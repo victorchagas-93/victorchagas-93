@@ -1,4 +1,4 @@
-## Olá! Eu sou Victor Chagas. Sou Dev Full Stack em formação e Dev CNC, e aqui você poderá ver um pouco do meu trabalho.
+## Olá! Eu sou Victor Chagas. Sou Desenvolvedor Full Stack em formação e Programador de Máquinas CNC, e aqui você poderá ver um pouco do meu trabalho.
 
  #### 👨‍💻 Tecnologias
  <br />
