@@ -1,6 +1,6 @@
-## Hello! I'm Victor Chagas. I'm a CNC Machines Dev and Full Stack Dev and here you can see some of my work.
+## Olá! Eu sou Victor Chagas. Sou Dev Full Stack em formação e Dev CNC, e aqui você poderá ver um pouco do meu trabalho.
 
- #### 👨‍💻 Technologies
+ #### 👨‍💻 Tecnologias
  <br />
 
 [![My Skills](https://skillicons.dev/icons?i=autocad,sketchup,arduino,raspberrypi)](https://skillicons.dev)
@@ -21,5 +21,5 @@
 
 #
 
-This GitHub repository is a space where I share projects, learnings, and achievements along my journey. Feel free to explore and track my progress! 🚀
+Este repositório do GitHub é um espaço onde compartilho projetos, aprendizados e conquistas ao longo da minha jornada. Sinta-se à vontade para explorar e acompanhar meu progresso! 🚀
 
